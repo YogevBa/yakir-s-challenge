@@ -1,0 +1,6 @@
+.results_wrapper {
+  width: 600px;
+  height: 80%;
+  min-height: 700px;
+  overflow-y: auto;
+}
